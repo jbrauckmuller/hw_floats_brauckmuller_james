@@ -7,3 +7,7 @@ h1 {
 	float: right;
 }
 
+p:nth-child(n+5) {
+	clear: left;
+}
+
