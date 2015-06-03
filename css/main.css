@@ -21,6 +21,7 @@
 .box-3 {
     background: #0021A5;
     float: right;
+    clear: both;
 }
 
 .box-4 {
